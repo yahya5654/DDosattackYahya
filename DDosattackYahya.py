@@ -20,10 +20,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDOS YAHYA  Attack")
 print
-print "Author   : S M YAHYA"
-print "You Tube : Technology yahya"
-print "github   : "
-print "Blog : https://technologyyahya.blogspot.com"
+print ("Author   : S M YAHYA")
+print ("YouTube : Technology yahya")
+print ("github   : https://github.com/yahya5654")
+print ("Blog : https://syahyasadat.blogspot.com")
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
