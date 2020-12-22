@@ -1,6 +1,6 @@
    
 import sys
-import osimport time
+import osimport
 import socket
 import random
 #Code Time
